@@ -1,4 +1,3 @@
-/*
 using System;
 using System.ComponentModel;
 using System.Reflection;
@@ -73,4 +72,3 @@ class Program4
         }
     }
 }
-*/
